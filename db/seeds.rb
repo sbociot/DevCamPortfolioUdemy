@@ -46,7 +46,8 @@ end
           sem purus, dapibus ac neque et, t
           incidunt dignissim felis. Integer
            malesuada ex felis, et dignissim ",
-        main_image:"http://placeholder/600*400",
+        main_image:"http://placeholder/600*4
+        00",
         thum_image:"http://placeholder/350*200"
     )
 end
